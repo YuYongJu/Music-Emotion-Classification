@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "turing-terminus-392618",
+  "private_key_id": "aeb7c4cc7413caca84ac299f379626e0333f84da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnd4bm1nnazNJS\nE5Lwtj9oqREGSPjTwmAcQRgGONc9LLv94kIgOPK8A/2l3xsz6TGNsko70GsQ7O5t\n4j3+DaqsUdJ/275MR/5IWqE2p/rCqAxFzy/eAEHKxmaByuUCfWUS0TJVeJnkQjJu\n1BhKVA+LoGvkxU2dxwGB+HauuSw7m3K6sE8TeopPH8T0PFtstENBVp4oEdtFCc9G\ngYWUMQhJpsnI8RiWAXne4AKPsomsuqDU465ouGnVA+USVHJoarWyuuDXh8FXDsPY\nc39ufp77qPCPUaTMRAlubXE/ZAyrSdYlcWfrgdrnmrZJLe9CviKzoL0cf6edDIne\nbT8gdsqHAgMBAAECggEAAxQxyqOt0nJ9xjZUg/cHaNBKHyOPUGFcX/8B+iqB9ot2\n51hWEktjVxNhtSXj1T5knVZmTzEDqIHncX8j2AkxsDP1ThZHRBX2XFrIm2PwoP+/\nvgOgCl5WpB8MRzc1b6hh7jvvYRGAqGj5J8vf26bHZGNHwiLiGVQz0f5niP3TJnaR\nztB6aonW8goL06INpSXkMVW3/3Q64WYnST/eQVjHpybi5N/LJxY3hNDR5SsfwD4n\nhmbiRSA/HZTrCvyzBKkX7l52YL7QiJqISA1po4Ltp8gFk5Wa9/DU1ETA78cOzL62\ncgRotwylpgXfqNBMQcXzwhGX9d9I2Hvd7DMmsVn/BQKBgQDpP1R5f2Bi0lElLGqt\n/NYdXSqaIf+TJJ4wvO3IRfg8+GxaxBlROo8fcgRNib+DxDrJYL+5OjPXexQ3Th23\nyyGJwit80u+qk8N1XEqnPF9F1hbVcKTCaVFtcaKdnL7O2ylMj0h0H+PGwWiM47qm\nu8ZFESBkOhpjzUd0vN5GnsmKZQKBgQC3zYWu/b/hhuwZsqP1ofAtffPE4no74eff\nVr5mzrwj/maYdUhLfmzOgnUwqNe9BKvUMOSmHwEcPE+1Q/BxtGZNbqjwu3x5C7BA\nkl0MmyFJ6TFbpPUh97zMUs1VK0iMJgY8efRGdBGDBSyObSwB3gN1sSv4idSM+GQB\na90Cz4FcewKBgQDmJqpZFJnsCPEuyAwf0BsKcHLoEeIYtAovt0y90GTo7IwmZ9c/\ncpPlCGE8jU5fW5JSQNgNkmOzHOxOwhLK13Ipd2Hn0k/Qteso879qE0VDKMPxKiw4\n9Sj24CkAcrlIbbLrq3pns0vTQ+bBFriHa0NxxTt8CmUd02HNy8tcTbQ6jQKBgFDF\ngHnmCOyS3i5s0qCfCWz0bKuY2x51p+/9rq5/Ky6mHW/iGmMSq74UlmtLx4LJCrm0\nwsY92b8OwfhmYsOVA2ADwToJKioHeOznZPylL3vLfmVHmHHU7KLdwF4tJzRvgU4S\nScasOwXYwDvWvgAUEHEn6qrN5xoMDeaSAA28Ip0BAoGACS/WBuhT1NdedKLLtjVk\n5yqbPe2DX/8Jt8ykfnmvbiqC2EdI+NnJXyJ+Lmbl0BBV5do8R3hNQAP50c4JpSft\n8by9qZ/dJJJdmrivhEyaSl3Sre0m7yPbwNKOCOqgoi2P8NoNTd6KR9jI9UzWjHkm\nvmFyg4gbEpw2M4KNdEa9GSs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "taedoka@turing-terminus-392618.iam.gserviceaccount.com",
+  "client_id": "114436805823514754312",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/taedoka%40turing-terminus-392618.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
